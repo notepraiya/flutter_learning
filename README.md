@@ -1,6 +1,7 @@
 # flutter_learning
 
-A new Flutter project.
+This is a project for keeping my flutter learning track
+Created by 'flutter create flutter_learning'
 
 ## Getting Started
 
